@@ -1,0 +1,5 @@
+fa-user
+fa-graduation-cap
+fa-code
+fa-diagram-project
+fa-certificate
